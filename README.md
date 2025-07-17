@@ -1,32 +1,31 @@
-# Hotel-Booking-Analytics-Python-KPIs-EDA
-
 # Hotel Booking Analytics Project (Python | EDA + KPIs + Visualization)
 
-# Description:
-# Python-based analysis of hotel booking data to uncover trends,
-# compute key metrics, and deliver insights for optimizing performance.
+This project involves a comprehensive data analysis of hotel booking trends, performance metrics, and customer behavior using Python. The goal is to derive business insights that can help optimize hotel operations and improve revenue performance.
 
-# 📊 Objectives:
-# - Analyze occupancy & revenue trends
-# - Compute KPIs: occ_pct, RevPAR
-# - Visualize patterns (bar charts, heatmaps)
-# - Generate actionable business insights
+## 📊 Objectives
 
-# 🛠️ Tools:
-# - Python | Pandas | NumPy
-# - Matplotlib | Seaborn
-# - Jupyter Notebook
+- Analyze booking data to identify occupancy trends and revenue patterns
+- Compute key performance indicators (KPIs) such as:
+  - **Occupancy Percentage (occ_pct)**
+  - **Revenue per Available Room (RevPAR)**
+- Visualize important metrics using bar plots, line charts, and heatmaps
+- Generate data-driven insights to inform operational decisions
 
-# 📁 Structure:
+## 🛠️ Tools & Libraries Used
+
+- **Python**  
+- **Pandas** for data manipulation  
+- **NumPy** for numerical operations  
+- **Matplotlib & Seaborn** for visualization  
+- **Jupyter Notebook** for interactive development  
+
+## 📁 Project Structure
+
 Hotel-Booking-Analytics/
-├── hotels_analysis.ipynb    # Main notebook
-├── data/                    # Datasets
-├── visuals/                 # Plots
-└── README.md                # Project overview
+│
+├── hotels_analysis.ipynb       # Main notebook with EDA and KPI analysis
+├── data/                       # Folder for raw or cleaned datasets
+├── visuals/                    # Folder for exported plots/charts
+├── requirements.txt            # Python libraries used 
+└── README.md                   # Project overview and documentation
 
-# 📌 Highlights:
-# - Cleaned & transformed data using pandas
-# - Explored room categories, market segments, booking sources
-# - Calculated occ_pct & RevPAR
-# - Visualized trends with seaborn & matplotlib
-# - Suggested improvements for hotel performance
