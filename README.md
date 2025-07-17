@@ -2,20 +2,22 @@
 
 This project involves a comprehensive data analysis of hotel booking trends, performance metrics, and customer behavior using Python. The goal is to derive business insights that can help optimize hotel operations and improve revenue performance.
 
-# 📊 Objectives
 
-- Analyze booking data to identify occupancy trends, customer behavior, and revenue patterns
-- Compute key performance indicators (KPIs) such as:
-  - **Occupancy Percentage (occ_pct)** – How effectively rooms are being filled
-  - **Revenue per Available Room (RevPAR)** – Measures revenue efficiency per room
-  - **Average Daily Rate (ADR)** – Average income earned per occupied room
-  - **Cancellation Rate** – Percentage of total bookings that were canceled
-  - **Booking Lead Time** – Days between booking and actual stay
-  - **No-Show Rate** – Proportion of guests who failed to arrive
-  - **Length of Stay (LOS)** – Average duration of guest stays
-  - **Market Segment Contribution** – Performance by source like OTA, corporate, direct
-- Visualize key metrics using bar plots, line charts, and heatmaps
-- Generate actionable, data-driven insights to support strategic decisions in hotel operations
+  # 📊 Objectives
+
+# - Perform data cleaning and preprocessing on hotel booking datasets
+# - Conduct exploratory data analysis (EDA) to uncover trends and patterns
+# - Compute key hotel KPIs such as:
+#     -> Occupancy Percentage (occ_pct)
+#     -> Revenue per Available Room (RevPAR)
+#     -> Average Daily Rate (ADR)
+#     -> Booking Lead Time
+#     -> Cancellation Rate
+#     -> No-Show Rate
+# - Visualize trends across time, room categories, market segments, and booking sources
+# - Identify peak and off-peak booking periods to assist with seasonal pricing strategies
+# - Recommend data-driven strategies to improve hotel performance and operational efficiency
+
 
 ## 🛠️ Tools & Libraries Used
 
